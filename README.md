@@ -1,2 +1,2 @@
 # Churn_prediction
-Prediction whether the em
+ To classify whether a customer is going to churn or not
